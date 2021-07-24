@@ -1,0 +1,5 @@
+Hi this is my first file edureka1.txt
+clear
+
+
+
